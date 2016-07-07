@@ -1,6 +1,8 @@
 GEM
   specs:
-
+  	gem 'google_drive'
+	gem 'json'
+	gem 'sinatra'
 PLATFORMS
   ruby
 
